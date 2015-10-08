@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('signpost-commonshttp4-1.2.1.2.jar'))

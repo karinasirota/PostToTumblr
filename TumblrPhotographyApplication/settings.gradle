@@ -1,0 +1,1 @@
+include ':app', ':jumblr-0.0.10', ':scribe-1.3.7', ':gson-2.3.1'

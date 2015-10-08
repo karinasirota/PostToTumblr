@@ -1,0 +1,4 @@
+configurations.create("default")
+artifacts.add("default", file('jumblr-0.0.10.jar'))
+dependencies {
+}
